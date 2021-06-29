@@ -4,11 +4,12 @@ Disciplina: Mobile Development
 
 ### Desenvolvimento de App Mobile com React Native
 ► Desenvolver uma tela para cadastro de Usuário
+
 ► Desenvolver uma tela para Login no app
+
 ► Desenvolver uma tela para Listagem de Produtos
 
 ### API do App Mobile
-https://example-ecommerce.herokuapp.com/swagger-ui.html#/
 
 Endereço da Documentação da API:
 ► https://example-ecommerce.herokuapp.com/swagger-ui.html
