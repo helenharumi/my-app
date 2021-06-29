@@ -10,13 +10,17 @@ Disciplina: Mobile Development
 ► Desenvolver uma tela para Listagem de Produtos
 
 ### API do App Mobile
-Endereço da Documentação da API:https://example-ecommerce.herokuapp.com/swagger-ui.html
+Endereço da Documentação da API:
+https://example-ecommerce.herokuapp.com/swagger-ui.html
 
-Efetuar Login: https://example-ecommerce.herokuapp.com/user/login
+Efetuar Login:
+https://example-ecommerce.herokuapp.com/user/login
 
-Cadastrar Usuário: https://example-ecommerce.herokuapp.com/user/customer/add
+Cadastrar Usuário:
+https://example-ecommerce.herokuapp.com/user/customer/add
 
-Listar Produtos: https://example-ecommerce.herokuapp.com/product/list
+Listar Produtos:
+https://example-ecommerce.herokuapp.com/product/list
 
 ### Executando o projeto
 Utilize o **npm install** ou o **yarn** para instalar as dependências do projeto.
@@ -27,5 +31,3 @@ expo start
 ```
 
  › Press **a** │ open Android
- 
- › Press **w** │ open web
